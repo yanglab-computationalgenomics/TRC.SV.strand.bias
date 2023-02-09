@@ -26,7 +26,7 @@ Processing the raw cell line replication timing data, then determin the replicat
 ### 02-coding-gene-replication-direction.R
 Annotating the replication orientation of cell lines for all coding genes.
 ### 03-add-coding-gene-replication-orientation-to-bkpt.R
-Annotatiing the replication orientation of the coding gene where the breakpoint is locates.
+Annotating the replication orientation of the coding gene where the breakpoint is locates.
 
 ## *AnnodateBreakpoints*
 ### add-signature-category-to-bkpt.R
